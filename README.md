@@ -1,4 +1,6 @@
 # Library-Management
+### Developed by : Hashwatha M
+### Register Number : 212223240051
 ## AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ## PROBLEM STATEMENT:
@@ -32,6 +34,19 @@ Star UML
 
 ### CLASS DIAGRAM:
 
+<img width="1552" height="968" alt="image" src="https://github.com/user-attachments/assets/6a713b01-3ac5-4d22-b6c7-4bc6697ecec3" />
+
+### COMMUNICATION DIAGRAM:
+
+<img width="1548" height="967" alt="image" src="https://github.com/user-attachments/assets/c594cbdf-c51b-4d75-ae2a-f746cb51fa6c" />
+
+### ACTIVITY DIAGRAM:
+
+<img width="1517" height="968" alt="image" src="https://github.com/user-attachments/assets/42cd6195-63b8-4bf3-9bce-ed24f34506b1" />
+
+### PACKAGE DIAGRAM:
+
+<img width="1492" height="966" alt="image" src="https://github.com/user-attachments/assets/e3dbc29e-0712-4bae-8de2-f353a32c46d5" />
 
 ## RESULT:
 Thus the Library management system project was executed and the output was verified.
